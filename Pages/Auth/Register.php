@@ -4,7 +4,9 @@ include '../../Controllers/Header.php';
 $Username = '';
 $Password = '';
 $Email = '';
-
+if (!isset($_POST["captcha"])) {
+    $_SESSION['captcha'] = generateCaptcha(6);
+}
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $Username = htmlspecialchars(trim($_POST["Username"]));
     $Password = htmlspecialchars(trim($_POST["Password"]));

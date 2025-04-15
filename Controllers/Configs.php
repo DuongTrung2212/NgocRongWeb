@@ -21,14 +21,14 @@ $_Zalo = 'https://zalo.me/g/jlflos982';
 
 #---------------#
 #Downloads
-$_Android = '/Downloads/DucKien.apk'; // Downloads nơi lưu file game
-$_Iphone = '/Downloads/DucKien.ipa';
-$_Java = '/Downloads/DucKien.jar';
-$_Windows = '/Downloads/DucKien.rar';
+$_Android = '/Downloads/Nro.apk'; // Downloads nơi lưu file game
+$_Iphone = '/Downloads/Nro.ipa';
+$_Java = '/Downloads/Nro.zip';
+$_Windows = '/Downloads/Nro.zip';
 
 #Card
-$Partner_Key = 'b849b8b628fbfdb2c5666145738017e9';
-$Partner_Id = '79992479357';
+$Partner_Key = '8bb4202501c74b146badfc5f77ea7ea1';
+$Partner_Id = '49706375994';
 $_ApiCard = 'https://gachthe123.com/'; // Link Đại Lý Thẻ
 
 #Atm - Mbbank

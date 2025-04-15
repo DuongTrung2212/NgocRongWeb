@@ -187,7 +187,7 @@ if (isset($_FixWeb) && $_FixWeb == 1) {
                                         style="flex-wrap:wrap;margin-bottom:-10px">
                                         <div class="ant-space-item col-6 col-md-3 col-lg-2" style="padding-bottom:10px">
                                             <div>
-                                                <a href="/Downloads/NroOri.zip">
+                                                <a href="/Downloads/Nro.zip">
                                                     <button style="height:45px" type="button"
                                                         class="ant-btn ant-btn-default header-menu-item header-menu-item-active w-100">
                                                         <img src="/Assets/Images/0hrzmer.png" style="width:97px" />
@@ -198,7 +198,7 @@ if (isset($_FixWeb) && $_FixWeb == 1) {
 								
                                         <div class="ant-space-item col-6 col-md-3 col-lg-2" style="padding-bottom:10px">
                                             <div>
-                                                <a href="/Downloads/NroOri.apk">
+                                                <a href="/Downloads/Nro.apk">
                                                     <button style="height:45px" type="button"
                                                         class="ant-btn ant-btn-default header-menu-item header-menu-item-active w-100">
                                                         <img src="/Assets/Images/RAGk2Dn.png" style="width:97px" />
